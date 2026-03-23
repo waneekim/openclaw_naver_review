@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-03-23T19:52:57+09:00",
+    "generated_at": "2026-03-24T00:37:27+09:00",
     "counts": {
       "total": 23,
       "initial_pending": 20,
@@ -267,7 +267,7 @@
       "source_snapshot_path": "/Users/waneekim/.openclaw/workspace/naver_review_automation/available_reviews_snapshot.json",
       "source_url": "https://shopping.naver.com/my/writable-reviews",
       "last_collected_at": "2026-03-23T15:00:18+09:00",
-      "last_synced_at": "2026-03-23T19:52:57",
+      "last_synced_at": "2026-03-24T00:37:27",
       "review_url": "",
       "review_draft_title": "용도에 맞게 쓰면 괜찮은 편이었습니다",
       "review_draft_body": "클린 양면 드라잉타월 듀오 대형 세차타월은 기본 기능은 기대한 범위 안에서 해주는 편이었습니다. 옵션은 색상: 옐로우[노란색] 기준으로 봤습니다.\n\n디자인이나 구성 쪽에서는 구성이 과하게 복잡하지 않아 접근하기 쉬운 편입니다. 실제로 써보면 용도만 맞으면 손이 자주 가는 쪽에 가까웠습니다.\n\n다만 한 번에 모든 문제를 해결하는 제품으로 기대하면 아쉬울 수 있습니다.\n\n팁으로는 용도에 맞는 상황에서 시작해야 장점이 더 잘 보입니다. 전체적으로 클린 양면 드라잉타월 듀오 대형 세차타월은 과장 없이 보면 용도에 맞게 만족할 만한 편이었습니다.",
