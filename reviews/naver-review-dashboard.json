@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-04-07T06:52:25+09:00",
+    "generated_at": "2026-04-07T07:03:58+09:00",
     "counts": {
       "total": 20,
       "initial_pending": 16,
@@ -11,7 +11,7 @@
       "error": 0
     },
     "approval_db_url": "https://www.notion.so/329b2169ba7c818eb194ee3692d79ad1",
-    "action_api_base_url": "https://induction-secrets-proud-climbing.trycloudflare.com"
+    "action_api_base_url": "https://collected-eden-app-parliamentary.trycloudflare.com"
   },
   "items": [
     {
